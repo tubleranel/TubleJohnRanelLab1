@@ -11,8 +11,8 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="202dp"
-        android:background="@mipmap/ic_launcher"
-        app:srcCompat="@drawable/emberprime" />
+
+        app:srcCompat="@drawable/intramuros" />
 
     <TextView
         android:id="@+id/editText"
